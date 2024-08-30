@@ -1,2 +1,2 @@
-# Finans---finan-as-pessoais
+# Finans finanças pessoais
 Projeto Finans
